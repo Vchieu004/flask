@@ -5,7 +5,7 @@ import shutil
 
 UPLOAD_FOLDER = 'uploads'
 GIT_REPO_FOLDER = 'repo'
-GITHUB_REPO_URL = 'https://github.com/yourusername/your-repo.git'  # Thay bằng repo của bạn
+GITHUB_REPO_URL = 'https://github.com/Vchieu004/flask.git'  # Thay bằng repo của bạn
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
